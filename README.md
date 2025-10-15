@@ -8,7 +8,8 @@
 
 ##  Thông tin sinh viên
 - **Họ tên:** Phạm Đăng Khoa  
-- **Mã lớp:** DK24TTC2  
+- **Mã lớp:** DK24TTC2
+- **Mã SV:** 170124131  
 - **Đề tài:** Website quảng bá du lịch biển Ba Động  
 - **Giảng viên hướng dẫn:** TS. Đoàn Phước Miền  
 - **Email giảng viên (GitHub):** antonio86doan@gmail.com  
