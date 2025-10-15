@@ -5,6 +5,7 @@
 - **Mã lớp:** DK24TTC2  
 - **Sinh viên thực hiện:** Phạm Đăng Khoa
 - **Mã sinh viên:** 170124131
+- **Số điện thoại sinh viên:** 0909 567 161
 - **Giảng viên hướng dẫn:** TS. Đoàn Phước Miền
 - **Email GV:** phuocmien@tvu.edu.vn
 - **Email SV:** khoapd290694@tvu-onschool.edu.vn
