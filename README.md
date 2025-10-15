@@ -1,33 +1,28 @@
-# ASPNET-DK24TTC2-phamdangkhoa-travel
-# Website Quảng Bá Du Lịch Biển Ba Động
+#  XÂY DỰNG WEBSITE QUẢNG BÁ DU LỊCH BIỂN BA ĐỘNG
 
-##  Giới thiệu
-Đây là đồ án môn **Chuyên đề ASP.NET**, được thực hiện nhằm xây dựng một website quảng bá du lịch biển Ba Động (Trà Vinh) — giới thiệu cảnh đẹp, văn hóa, và hỗ trợ đặt tour.
-
----
-
-##  Thông tin sinh viên
-- **Họ tên:** Phạm Đăng Khoa  
-- **Mã lớp:** DK24TTC2
-- **Mã SV:** 170124131  
-- **Đề tài:** Website quảng bá du lịch biển Ba Động  
-- **Giảng viên hướng dẫn:** TS. Đoàn Phước Miền  
-- **Email giảng viên (GitHub):** phuocmien@tvu.edu.vn
+##  Thông tin chung
+- **Tên đồ án:** Xây dựng website quảng bá du lịch biển Ba Động  
+- **Mã lớp:** DK24TTC2  
+- **Sinh viên thực hiện:** Phạm Đăng Khoa  
+- **Giảng viên hướng dẫn:** TS. Đoàn Phước Miền
+- **Email GV:** phuocmien@tvu.edu.vn
+- **Email SV:** khoapd290694@tvu-onschool.edu.vn
 
 ---
 
-##  Chức năng chính
-1. Giới thiệu khu du lịch và các hoạt động nổi bật.  
-2. Thư viện ảnh và video về Biển Ba Động.  
-3. Form liên hệ và góp ý của khách tham quan.  
-4. Quản trị viên có thể thêm/sửa/xóa bài viết, hình ảnh.
-
- ##  Công nghệ sử dụng
-- ASP.NET Web Forms (C#)
-- SQL Server (ADO.NET)
-- HTML, CSS, Bootstrap
-- Visual Studio 2022
+## 🎯 Mục tiêu đồ án
+Xây dựng một website giới thiệu và quảng bá du lịch biển Ba Động (Trà Vinh), giúp khách du lịch:
+- Tìm hiểu thông tin, hình ảnh và hoạt động nổi bật của khu du lịch.  
+- Tìm kiếm và đặt dịch vụ trực tuyến (nếu có).  
+- Tăng cường khả năng nhận diện điểm đến du lịch địa phương.
 
 ---
 
-## 🗂️ Cấu trúc thư mục  
+## 🧩 Công nghệ sử dụng
+- **Ngôn ngữ lập trình:** C#, HTML5, CSS3, JavaScript  (tùy chọn)
+- **Framework:** ASP.NET Core MVC  
+- **Cơ sở dữ liệu:** Microsoft SQL Server  
+- **Công cụ phát triển:** Visual Studio 2022  
+- **Triển khai:** Docker / IIS (tùy chọn)  
+- **Quản lý mã nguồn:** GitHub  
+
